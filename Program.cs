@@ -20,17 +20,9 @@ namespace SAMPRO__SANTIAGO_MINES_PROJECT_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SEPTIMAHOJA());
-            Application.Run(new MAPA());
-            
-         
-
-
-
-
-
-
-
+            //Application.Run(new SEPTIMAHOJA());
+            //Application.Run(new MAPA());
+            Application.Run(new Test());
 
         }
 

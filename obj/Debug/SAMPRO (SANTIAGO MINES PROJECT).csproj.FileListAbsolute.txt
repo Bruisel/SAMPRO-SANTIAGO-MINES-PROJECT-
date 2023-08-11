@@ -32,3 +32,34 @@ C:\Users\NOLBELLI NICASIO\OneDrive\Desktop\ESCRITORIO\New folder\CARPETA DE DESA
 C:\Users\NOLBELLI NICASIO\OneDrive\Desktop\ESCRITORIO\New folder\CARPETA DE DESARROLLO DEL PROYECTO\SAMPRO (SANTIAGO MINES PROJECT)\bin\Debug\GMap.NET.WindowsForms.dll
 C:\Users\NOLBELLI NICASIO\OneDrive\Desktop\ESCRITORIO\New folder\CARPETA DE DESARROLLO DEL PROYECTO\SAMPRO (SANTIAGO MINES PROJECT)\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.MAPA.resources
 C:\Users\NOLBELLI NICASIO\OneDrive\Desktop\ESCRITORIO\New folder\CARPETA DE DESARROLLO DEL PROYECTO\SAMPRO (SANTIAGO MINES PROJECT)\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).csproj.CopyComplete
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\SAMPRO (SANTIAGO MINES PROJECT).exe.config
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\SAMPRO (SANTIAGO MINES PROJECT).exe
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\SAMPRO (SANTIAGO MINES PROJECT).pdb
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\GMap.NET.Core.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).csproj.AssemblyReference.cache
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.PRESENTACION.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.INFORMACIÓN.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.MAPA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.CUARTAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.MENU_INICIO.NOSOTROS.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.SEPTIMAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.SEXTAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.QUINTAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.TERCERAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.SEGUNDAHOJA.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.Properties.Resources.resources
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).csproj.GenerateResource.cache
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).csproj.CoreCompileInputs.cache
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).csproj.CopyComplete
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).exe
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO (SANTIAGO MINES PROJECT).pdb
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\EntityFramework.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\System.Data.SQLite.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\EntityFramework.xml
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\bin\Debug\System.Data.SQLite.xml
+C:\Users\Baldw\OneDrive\Documentos\GitHub\SAMPRO-SANTIAGO-MINES-PROJECT-\obj\Debug\SAMPRO__SANTIAGO_MINES_PROJECT_.Test.resources
